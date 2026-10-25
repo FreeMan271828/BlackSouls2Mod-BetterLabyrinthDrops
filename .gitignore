@@ -1,0 +1,14 @@
+# --- game data / large binaries: never commit these ---
+Game.rgss3a
+Game.rgss3a.orig.bak
+Game.rgss3a.new
+*.rvdata2
+*.rgss3a
+
+# --- python ---
+__pycache__/
+*.py[cod]
+
+# --- misc ---
+.DS_Store
+Thumbs.db
